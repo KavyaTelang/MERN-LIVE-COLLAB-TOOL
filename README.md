@@ -60,5 +60,5 @@ The core functionality of this application is real-time drawing synchronization 
 --> CHATGPT
 
 # OUTPUT OF TASK 
+![image](https://github.com/user-attachments/assets/6c7e2462-431f-4758-af5c-b8bd1d798c5b)
 
-![image](https://github.com/user-attachments/assets/6b5c42c6-afe3-4b18-9216-770e0c505fb4)
